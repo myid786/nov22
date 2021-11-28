@@ -1,0 +1,39 @@
+body {
+  margin: auto;
+  padding: 10px;
+  background-color: #b6baba;
+}
+header {
+  display: flex;
+  justify-content: center;
+  background-color: #b28aeb;
+  align-items: center;
+  font-size: 15px;
+}
+
+.mylist {
+  background-color: #b6fcf4;
+  margin: auto;
+  position: absolute;
+  width;
+}
+.num-list {
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  align-items: center;
+}
+.center {
+  margin: 10px;
+  padding: 10px;
+}
+.center1 {
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  background-color: brown;
+  position: absolute;
+  top: 0%;
+  bottom: 0%;
+  right: 0%;
+  left: 0%;
